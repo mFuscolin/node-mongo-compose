@@ -1,4 +1,1 @@
-# node-mongo-compose
-# node-mongo-compose
-# node-mongo-compose
-# node-mongo-compose
+# Studying about docker compose
